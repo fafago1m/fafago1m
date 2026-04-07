@@ -26,6 +26,7 @@ Sebagai **Founder Actstore.id**, saya membangun dan mengelola platform yang berf
 - 🏆 **Penerima Beasiswa** (Rp 10.000.000) dari program **Momenku – Siap Berkemas Kewirausahaan**.
 - 🚀 **Founder** Advance Code Technology (ACT STORE).
 - 💻 **Freelance Web Developer** (1 Tahun+) menangani berbagai proyek klien mulai dari portofolio pribadi hingga sistem bisnis.
+- 📜 **Sertifikat & Kredensial:** Untuk melihat detail pencapaian dan daftar sertifikat saya selengkapnya, silakan kunjungi profil **[LinkedIn Saya](https://id.linkedin.com/in/ihza-maulana-alfarisi-991a0b318)**.
 
 ---
 
