@@ -2,7 +2,11 @@
 <h3 align="center">Web Developer | Frontend Enthusiast | Founder Actstore.id</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ihzamaulana&label=Profile%20views&color=0e75b6&style=flat" alt="ihzamaulana" />
+  <img src="https://komarev.com/ghpvc/?username=fafago1m&label=Profile%20views&color=0e75b6&style=flat" alt="fafago1m" />
+</p>
+
+<p align="center">
+  🌐 Website: <a href="https://actstore.id">https://actstore.id</a>
 </p>
 
 <p align="center">
@@ -12,13 +16,14 @@
 </p>
 
 <p align="center">
-  Saya juga merupakan penerima <b>beasiswa 10 juta rupiah</b> dari program <b>Momenku – Siap Berkemas Kewirausahaan</b>,  
-  yang menjadi bukti komitmen saya dalam bidang teknologi dan kewirausahaan.
+  Saya juga merupakan penerima <b>beasiswa 10 juta rupiah</b> dari program <b>Momenku – Siap Berkemas Kewirausahaan</b>.  
+  Detail sertifikat dan pencapaian dapat dilihat melalui profil LinkedIn saya.
 </p>
 
 <p align="center">
-  Sebagai <b>Founder Actstore.id</b>, saya aktif dalam membangun produk digital, mengelola proyek,  
-  serta terus mengembangkan kemampuan di bidang web development.
+  Sebagai <b>Founder Actstore.id</b>, saya membangun dan mengembangkan platform toko digital berbasis web,  
+  mulai dari perancangan sistem, pengembangan fitur, hingga deployment.  
+  Saya berfokus pada pengembangan produk digital yang scalable dan user-friendly.
 </p>
 
 ---
@@ -26,49 +31,41 @@
 ### 👨‍💻 Pengalaman
 - 💼 PKL 5 Bulan di <a href="https://farmagitechs.co.id/">PT Farma Global Teknologi</a>  
 - 💼 Magang 3 Bulan di <a href="https://farmagitechs.co.id/">PT Farma Global Teknologi</a>  
-- 🚀 Founder Actstore.id  
-- 🌐 Freelance Web Developer  
+- 🚀 Founder Advance Code Technology <a href="https://actstore.id"> ACT STORE
+- 🌐 Freelance Web Developer Selama 1 Tahun
 
 ---
 
-### 🏆 Sertifikat & Pencapaian
-- 🎓 Beasiswa 10 Juta – Momenku Kewirausahaan  
-  🔗 <a href="#">Lihat Sertifikat</a>  
+### 🚀 Teknologi & Framework
 
-- 🧑‍💻 Sertifikat PKL – PT Farma Global Teknologi  
-  🔗 <a href="#">Lihat Sertifikat</a>  
+- **Frontend Development:**  
+  HTML5, CSS3, JavaScript, React.js, Vue.js, Next.js  
 
-- 💼 Sertifikat Magang – PT Farma Global Teknologi  
-  🔗 <a href="#">Lihat Sertifikat</a>  
+- **Backend Development:**  
+  PHP (Laravel), Python (Django), MySQL, Node Js  
 
-- 🌐 Sertifikat Web Development  
-  🔗 <a href="#">Lihat Sertifikat</a>  
+- **Framework & Ecosystem:**  
+  Laravel, Next.js, React.js, Vue.js, Django  
 
-- 🎨 Sertifikat UI/UX Design  
-  🔗 <a href="#">Lihat Sertifikat</a>  
+- **Tools & Workflow:**  
+  Git, GitHub, Figma, Bootstrap, Tailwind Css  
 
----
-
-### 🚀 Teknologi yang Digunakan
-- **Frontend:** HTML, CSS, JavaScript, React.js, Vue.js, Next.js  
-- **Backend:** PHP, MySQL  
-- **Tools:** Git, GitHub, Figma, Bootstrap  
-- **Konsep:** Responsive Design, Clean Code, REST API Integration  
+- **Core Concepts:**  
+  REST API Integration, MVC Architecture, Responsive Design, Clean Code, Component-Based Development  
 
 ---
 
-### 📌 Proyek Unggulan
-- 📊 Sistem Absensi Berbasis GPS  
-- 🛒 Website Toko Digital (Actstore.id)  
-- 🌐 Landing Page & Company Profile  
-- 💬 Sistem Chat Real-time  
+### 📌 
+
+- 🛒 <b>Actstore.id</b> – Platform toko digital  
+  🔗 <a href="https://actstore.id">https://actstore.id</a>  
 
 ---
 
 ### 📌 Fokus Saat Ini
 - Mengembangkan aplikasi web modern & scalable  
-- Meningkatkan UI/UX dan performa  
-- Mengembangkan bisnis digital  
+- Meningkatkan kualitas UI/UX dan performa  
+- Mengembangkan produk dan bisnis digital  
 
 ---
 
@@ -80,7 +77,7 @@
 ---
 
 ### 📫 Kontak
-- 📧 Email: <a href="mailto:emailkamu@gmail.com">emailkamu@gmail.com</a>  
+- 📧 Email: <a href="mailto:alfacastel3@gmail.com">alfacastel3@gmail.com</a>  
 
 ---
 
@@ -95,6 +92,6 @@
 
 <h3 align="center">📊 Statistik GitHub</h3>
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ihzamaulana&show_icons=true&theme=algolia&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihzamaulana&layout=compact&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fafago1m&show_icons=true&theme=algolia&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fafago1m&layout=compact&theme=algolia"/>
 </p>
