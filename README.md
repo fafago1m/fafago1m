@@ -18,7 +18,7 @@ Sebagai **Founder Actstore.id**, saya membangun dan mengelola platform yang berf
 - ☁️ **Layanan Web Hosting & Domain** berkinerja tinggi.
 - 💻 **Pengembangan Sistem Berbasis Web** (Custom Web Apps) dari perancangan sistem hingga *deployment*.
 
-🔗 **Kunjungi kami:** [https://actstore.id](https://porto.actstore.id)
+🔗 **Kunjungi kami:** [https://porto.actstore.id](https://porto.actstore.id)
 
 ---
 
