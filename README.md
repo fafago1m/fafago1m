@@ -1,6 +1,6 @@
 
 <h1 align="center">👋 Halo, saya Ihza Maulana Alfarisi</h1>
-<h3 align="center">Web Developer | Frontend Enthusiast | Founder Actstore.id</h3>
+<h3 align="center">Junior Full Stack Web Developer| Founder Actstore.id</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fafago1m&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -18,7 +18,7 @@ Sebagai **Founder Actstore.id**, saya membangun dan mengelola platform yang berf
 - ☁️ **Layanan Web Hosting & Domain** berkinerja tinggi.
 - 💻 **Pengembangan Sistem Berbasis Web** (Custom Web Apps) dari perancangan sistem hingga *deployment*.
 
-🔗 **Kunjungi kami:** [https://actstore.id](https://actstore.id)
+🔗 **Kunjungi kami:** [https://actstore.id](https://porto.actstore.id)
 
 ---
 
